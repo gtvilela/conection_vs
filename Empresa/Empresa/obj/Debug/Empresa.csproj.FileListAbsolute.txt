@@ -1,0 +1,7 @@
+C:\Users\gabriela.thalita\source\repos\Empresa\Empresa\obj\Debug\Empresa.csprojAssemblyReference.cache
+C:\Users\gabriela.thalita\source\repos\Empresa\Empresa\obj\Debug\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\gabriela.thalita\source\repos\Empresa\Empresa\bin\Debug\Empresa.exe.config
+C:\Users\gabriela.thalita\source\repos\Empresa\Empresa\bin\Debug\Empresa.exe
+C:\Users\gabriela.thalita\source\repos\Empresa\Empresa\bin\Debug\Empresa.pdb
+C:\Users\gabriela.thalita\source\repos\Empresa\Empresa\obj\Debug\Empresa.exe
+C:\Users\gabriela.thalita\source\repos\Empresa\Empresa\obj\Debug\Empresa.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_Encapsulamento", "CursoCSharp_Encapsulamento\CursoCSharp_Encapsulamento.csproj", "{8B419871-D833-4F9B-8148-14380D225625}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B419871-D833-4F9B-8148-14380D225625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B419871-D833-4F9B-8148-14380D225625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B419871-D833-4F9B-8148-14380D225625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B419871-D833-4F9B-8148-14380D225625}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC6D8A44-92AE-4161-AB41-A827A7919642}
+	EndGlobalSection
+EndGlobal

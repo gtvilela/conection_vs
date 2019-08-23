@@ -1,0 +1,11 @@
+C:\Users\gabriela.thalita\source\repos\CursoCSharp_Encapsulamento\CursoCSharp_Encapsulamento\bin\Debug\netcoreapp2.1\CursoCSharp_Encapsulamento.deps.json
+C:\Users\gabriela.thalita\source\repos\CursoCSharp_Encapsulamento\CursoCSharp_Encapsulamento\bin\Debug\netcoreapp2.1\CursoCSharp_Encapsulamento.runtimeconfig.json
+C:\Users\gabriela.thalita\source\repos\CursoCSharp_Encapsulamento\CursoCSharp_Encapsulamento\bin\Debug\netcoreapp2.1\CursoCSharp_Encapsulamento.runtimeconfig.dev.json
+C:\Users\gabriela.thalita\source\repos\CursoCSharp_Encapsulamento\CursoCSharp_Encapsulamento\bin\Debug\netcoreapp2.1\CursoCSharp_Encapsulamento.dll
+C:\Users\gabriela.thalita\source\repos\CursoCSharp_Encapsulamento\CursoCSharp_Encapsulamento\bin\Debug\netcoreapp2.1\CursoCSharp_Encapsulamento.pdb
+C:\Users\gabriela.thalita\source\repos\CursoCSharp_Encapsulamento\CursoCSharp_Encapsulamento\obj\Debug\netcoreapp2.1\CursoCSharp_Encapsulamento.csprojAssemblyReference.cache
+C:\Users\gabriela.thalita\source\repos\CursoCSharp_Encapsulamento\CursoCSharp_Encapsulamento\obj\Debug\netcoreapp2.1\CursoCSharp_Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\gabriela.thalita\source\repos\CursoCSharp_Encapsulamento\CursoCSharp_Encapsulamento\obj\Debug\netcoreapp2.1\CursoCSharp_Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\gabriela.thalita\source\repos\CursoCSharp_Encapsulamento\CursoCSharp_Encapsulamento\obj\Debug\netcoreapp2.1\CursoCSharp_Encapsulamento.AssemblyInfo.cs
+C:\Users\gabriela.thalita\source\repos\CursoCSharp_Encapsulamento\CursoCSharp_Encapsulamento\obj\Debug\netcoreapp2.1\CursoCSharp_Encapsulamento.dll
+C:\Users\gabriela.thalita\source\repos\CursoCSharp_Encapsulamento\CursoCSharp_Encapsulamento\obj\Debug\netcoreapp2.1\CursoCSharp_Encapsulamento.pdb

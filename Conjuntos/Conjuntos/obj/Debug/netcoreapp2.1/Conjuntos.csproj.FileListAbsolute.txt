@@ -1,0 +1,11 @@
+C:\Users\gabriela.thalita\source\repos\Conjuntos\Conjuntos\bin\Debug\netcoreapp2.1\Conjuntos.deps.json
+C:\Users\gabriela.thalita\source\repos\Conjuntos\Conjuntos\bin\Debug\netcoreapp2.1\Conjuntos.runtimeconfig.json
+C:\Users\gabriela.thalita\source\repos\Conjuntos\Conjuntos\bin\Debug\netcoreapp2.1\Conjuntos.runtimeconfig.dev.json
+C:\Users\gabriela.thalita\source\repos\Conjuntos\Conjuntos\bin\Debug\netcoreapp2.1\Conjuntos.dll
+C:\Users\gabriela.thalita\source\repos\Conjuntos\Conjuntos\bin\Debug\netcoreapp2.1\Conjuntos.pdb
+C:\Users\gabriela.thalita\source\repos\Conjuntos\Conjuntos\obj\Debug\netcoreapp2.1\Conjuntos.csprojAssemblyReference.cache
+C:\Users\gabriela.thalita\source\repos\Conjuntos\Conjuntos\obj\Debug\netcoreapp2.1\Conjuntos.csproj.CoreCompileInputs.cache
+C:\Users\gabriela.thalita\source\repos\Conjuntos\Conjuntos\obj\Debug\netcoreapp2.1\Conjuntos.AssemblyInfoInputs.cache
+C:\Users\gabriela.thalita\source\repos\Conjuntos\Conjuntos\obj\Debug\netcoreapp2.1\Conjuntos.AssemblyInfo.cs
+C:\Users\gabriela.thalita\source\repos\Conjuntos\Conjuntos\obj\Debug\netcoreapp2.1\Conjuntos.dll
+C:\Users\gabriela.thalita\source\repos\Conjuntos\Conjuntos\obj\Debug\netcoreapp2.1\Conjuntos.pdb

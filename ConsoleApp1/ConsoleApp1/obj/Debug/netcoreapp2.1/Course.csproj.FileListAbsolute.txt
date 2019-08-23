@@ -1,0 +1,10 @@
+C:\Users\gabriela.thalita\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\Course.deps.json
+C:\Users\gabriela.thalita\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\Course.runtimeconfig.json
+C:\Users\gabriela.thalita\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\Course.runtimeconfig.dev.json
+C:\Users\gabriela.thalita\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\Course.dll
+C:\Users\gabriela.thalita\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\Course.pdb
+C:\Users\gabriela.thalita\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Course.csproj.CoreCompileInputs.cache
+C:\Users\gabriela.thalita\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Course.AssemblyInfoInputs.cache
+C:\Users\gabriela.thalita\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Course.AssemblyInfo.cs
+C:\Users\gabriela.thalita\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Course.dll
+C:\Users\gabriela.thalita\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Course.pdb

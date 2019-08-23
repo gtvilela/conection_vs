@@ -1,0 +1,2 @@
+C:\Users\gabriela.thalita\source\repos\Figuras\Figuras\obj\Debug\Figuras.csprojAssemblyReference.cache
+C:\Users\gabriela.thalita\source\repos\Figuras\Figuras\obj\Debug\Figuras.csproj.CoreCompileInputs.cache
