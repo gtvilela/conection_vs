@@ -1,0 +1,11 @@
+C:\Users\gabriela.thalita\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp2.1\FileStream_StreamReader.deps.json
+C:\Users\gabriela.thalita\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp2.1\FileStream_StreamReader.runtimeconfig.json
+C:\Users\gabriela.thalita\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp2.1\FileStream_StreamReader.runtimeconfig.dev.json
+C:\Users\gabriela.thalita\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp2.1\FileStream_StreamReader.dll
+C:\Users\gabriela.thalita\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp2.1\FileStream_StreamReader.pdb
+C:\Users\gabriela.thalita\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.1\FileStream_StreamReader.csproj.CoreCompileInputs.cache
+C:\Users\gabriela.thalita\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.1\FileStream_StreamReader.AssemblyInfoInputs.cache
+C:\Users\gabriela.thalita\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.1\FileStream_StreamReader.AssemblyInfo.cs
+C:\Users\gabriela.thalita\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.1\FileStream_StreamReader.dll
+C:\Users\gabriela.thalita\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.1\FileStream_StreamReader.pdb
+C:\Users\gabriela.thalita\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.1\FileStream_StreamReader.csprojAssemblyReference.cache
