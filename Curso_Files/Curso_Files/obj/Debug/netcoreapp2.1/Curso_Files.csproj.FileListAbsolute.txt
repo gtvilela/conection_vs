@@ -1,0 +1,4 @@
+C:\Users\gabriela.thalita\source\repos\Curso_Files\Curso_Files\obj\Debug\netcoreapp2.1\Curso_Files.csprojAssemblyReference.cache
+C:\Users\gabriela.thalita\source\repos\Curso_Files\Curso_Files\obj\Debug\netcoreapp2.1\Curso_Files.csproj.CoreCompileInputs.cache
+C:\Users\gabriela.thalita\source\repos\Curso_Files\Curso_Files\obj\Debug\netcoreapp2.1\Curso_Files.AssemblyInfoInputs.cache
+C:\Users\gabriela.thalita\source\repos\Curso_Files\Curso_Files\obj\Debug\netcoreapp2.1\Curso_Files.AssemblyInfo.cs

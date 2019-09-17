@@ -1,0 +1,11 @@
+C:\Users\gabriela.thalita\source\repos\Files_EXE\Files_Exe\Files_Exe\obj\Debug\netcoreapp2.1\Files_Exe.csprojAssemblyReference.cache
+C:\Users\gabriela.thalita\source\repos\Files_EXE\Files_Exe\Files_Exe\obj\Debug\netcoreapp2.1\Files_Exe.csproj.CoreCompileInputs.cache
+C:\Users\gabriela.thalita\source\repos\Files_EXE\Files_Exe\Files_Exe\obj\Debug\netcoreapp2.1\Files_Exe.AssemblyInfoInputs.cache
+C:\Users\gabriela.thalita\source\repos\Files_EXE\Files_Exe\Files_Exe\obj\Debug\netcoreapp2.1\Files_Exe.AssemblyInfo.cs
+C:\Users\gabriela.thalita\source\repos\Files_EXE\Files_Exe\Files_Exe\bin\Debug\netcoreapp2.1\Files_Exe.deps.json
+C:\Users\gabriela.thalita\source\repos\Files_EXE\Files_Exe\Files_Exe\bin\Debug\netcoreapp2.1\Files_Exe.runtimeconfig.json
+C:\Users\gabriela.thalita\source\repos\Files_EXE\Files_Exe\Files_Exe\bin\Debug\netcoreapp2.1\Files_Exe.runtimeconfig.dev.json
+C:\Users\gabriela.thalita\source\repos\Files_EXE\Files_Exe\Files_Exe\bin\Debug\netcoreapp2.1\Files_Exe.dll
+C:\Users\gabriela.thalita\source\repos\Files_EXE\Files_Exe\Files_Exe\bin\Debug\netcoreapp2.1\Files_Exe.pdb
+C:\Users\gabriela.thalita\source\repos\Files_EXE\Files_Exe\Files_Exe\obj\Debug\netcoreapp2.1\Files_Exe.dll
+C:\Users\gabriela.thalita\source\repos\Files_EXE\Files_Exe\Files_Exe\obj\Debug\netcoreapp2.1\Files_Exe.pdb
